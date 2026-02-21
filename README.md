@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanmohamed16&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanmohamed16" /> </p>
 
-- 🌱 I’m currently learning **React Frontend Developing**
+- 🌱 I’m currently learning **Next Frontend Developing**
 
 - 👯 I’m looking to collaborate on **Backend Project**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/AbdelrahmanMohamed16](https://www.behance.net/AbdelrahmanMohamed16)
 
-- 💬 Ask me about **Web Development, Java Programming**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **abdelrahmanmohamed2711@gmail.com**
 
